@@ -1,0 +1,12 @@
+<web-app>
+<servlet>
+<servlet-name>t1</servlet-name>
+<servlet-class>gtm</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>t1</servlet-name>
+<url-pattern>run</url-pattern>
+</servlet-mapping>
+</web-app>
+
+
